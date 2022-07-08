@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-image: url(images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.section{
+    position: relative;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 3%;
+    background-color: rgb(221, 221, 221);
+    border-radius: 20px;
+    height: 550px;
+    left: 37%;
+}
+
+.sub-sec1 img{
+    border-radius: 20px 20px 0 0;
+    width: 400px;
+}
+.sub-sec2{
+    position: relative;
+    width: 290px;
+    display: flex;
+    flex-direction: column;
+    left: 15%;
+}
+.innersec1 h2, p{
+    text-align: center;
+    margin: 10px;
+
+}
+
+.innersec2 {
+    height: 70px;
+    background: #ececec;
+    display: flex;
+    border-radius: 5px;
+    align-items: center;
+}
+.innersec2 span{
+    color:  hsl(223, 47%, 23%);
+}
+.img{
+    margin: 10px;
+}
+
+.change {
+    position: relative;
+    left: 50px;
+}
+
+.change a{
+    font-weight: 500;
+    color:  hsl(245, 75%, 52%);
+}
+
+.innersec3{
+    margin: 30px 0 30px 0;
+}
+
+.innersec3 .btn{
+    background-color: hsl(245, 75%, 52%);
+    height: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px 0;
+}
+
+.innersec3 .btn a{
+    position: relative;
+    color: #fff;
+    text-decoration: none;
+    top: 10px;
+    left: 80px;
+    font-weight: bold;
+    
+}
+
+.cancel{
+    margin: 20px 0 0 100px;
+}
+
+.cancel a{
+    text-decoration: none;
+    color: hsl(223, 47%, 23%);
+    font-weight: bold;
+}
+footer{
+    position: relative;
+    left: 40%;
+    display: flex;
+    margin-top: 5px;
+}
+
+
+
+
+
+
+
