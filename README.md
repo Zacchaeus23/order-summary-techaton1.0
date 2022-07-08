@@ -49,7 +49,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
 
-- [GitHub Pages](https://github.com/Zacchaeus23/order-summary-techaton1.0.git)
+- [GitHub Pages](https://zacchaeus23.github.io/order-summary-techaton1.0/)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
